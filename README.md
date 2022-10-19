@@ -7,7 +7,7 @@ La calidad del producto, junto con la calidad del proceso, es uno de los aspecto
 [**ISO/IEC 25000**](https://www.iso.org/standard/64764.html) constituye una serie de normas basadas en [**ISO/IEC 9126**]( https://www.iso.org/standard/22749.html) y en [**ISO/IEC 14598**]( https://www.iso.org/standard/24902.html) cuyo objetivo principal es guiar el desarrollo de los productos de software mediante la especificación de requisitos y evaluación de características de calidad.
 ![](https://i.ibb.co/xqQwSrz/iso25000.png)
 
-> Certificación.ISO 25000
+> Certificación ISO 25000
 
 ## AENOR
 
